@@ -1,8 +1,10 @@
-## Why curated AWESOME lists and RSS feeds matter
+## Why curated AWESOME lists and RSS feeds matter so much
 
-A rapidly developing research and development space such as eGPUs/eTPUs connectivity illustrates why it is generally important to curate repositories of lists of AWESOME blogs and online publications by industry experts and research institutions in this space to stay up-to-date on the latest trends and advancements ... by following these publications, or the abstracts in different RSS feeds, one is better able to an eye on key researchers/labs involved that developing as well as the conferences and workshops focused on HPC, cloud computing, and server technologies, as these often serve as a place for new ideas in cutting-edge research and development in eGPU/eTPU connectivity to emerge.
+*We'd never keep up without curated reading lists that help us build RSS feeds ... especially in rapidly evolving industries with lots of investment driving R&D and new theoretical work.*
 
-Of course, we continue to learn from [Archetypal Repository](https://github.com/sindresorhus/awesome) which laid the foundation for the example of listification in [the Awesome Lists of Awesome Lists](TheArchetype.md).
+A rapidly developing research and development space such as eGPUs/eTPUs connectivity illustrates why. But, more generally, it is important to curate repositories of lists of AWESOME blogs and online publications by independent thinkerers, industry experts and research institutions ... by following these curated lists, or the abstracts from linked RSS feeds, one is better able to an eye on key things.  
+
+So it's not JUST researchers/labs involved that developing as well as the conferences and workshops focused on HPC, cloud computing, and server technologies, as these often serve as a place for new ideas in cutting-edge research and development in eGPU/eTPU connectivity to emerge ... we ALSO continue to learn from [Archetypal Repository](https://github.com/sindresorhus/awesome) which laid the foundation for the broader archetypal example of listification in [the Awesome Lists of Awesome Lists](TheArchetype.md).
 
 ## Awesome Hardware Relevant To eGPUs 
 
