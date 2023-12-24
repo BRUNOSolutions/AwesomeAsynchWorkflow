@@ -20,6 +20,11 @@ Developers work on independent branches for specific features, merging them into
 
 Beyond using GitHub Projects ... what are some OPEN SOURCE ways that teams visualize and track individual tasks on virtual boards, facilitating clear communication and ownership.
 
+#### Test-Driven Development. Design-For-Test (DFT) and Observability Engineering: 
+
+SHIFT your thinking LEFT ... think of observability engineering [including security aspects of testing a user's environment for intruders] as being akin to hardware development, rather than an afterthought ...incorporate a DFT strategy into the architecture of your workflow ... consider adapting ideas from hardware development into your software development ... think about things such as hierarchical DFT with Memory Built-In Self Test (MBIST), IJTAG/TAP and Hi-Speed IO, traceable requirements from fundamental DFT logic, with pre-silicon verification to Co-work with test engineers post silicon ... shift the testing left, and make *copilot* the design process by understanding how boundary scan, scan chains, DFT Compression, Logic Built-In Self Test (BIST), Test Access Point (TAP) controller, Clock Control block, and other DFT IP blocks are used in hardware. Design in the observability and controllability of the design to enable testability; consider why it's so important to insert and hook up MBIST logic including test collar around memories, MBIST controllers, eFuse logic and connect to core and TAP interfaces.
+Document DFT architecture and test sequences, including boot-up sequence associated with test pins. Make it almost effortless to test the design by using the DFT architecture to control the design and test sequences; complete all Test Design Rule Checks (TDRC) and Design changes to fix TDRC violations to achieve high test quality which can support to the traceability and analytics used to improve customer use and interactivity.
+
 #### Code Reviews: 
 
 Developers asynchronously review each other's code after pull requests, ensuring quality and knowledge sharing ... not just tools like Gerrit, but the best practices for Gerrit.

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<opml version="1.0">
+	<head>
+		<title>Template RSS Feeds</title>
+		<url>https://www.rssboard.org/rss-validator/</url>
+		<ownerName>Bruno.Solutions</ownerName>
+		<ownerEmail>markbruns@markbruns.com</ownerEmail>
+	</head>
+	<body>
+		<outline text="All News" title="All News" description="" xmlUrl="https://www.investing.com/rss/news.rss" type="rss" />
+		<outline text="Bloomberg Quicktake" title="Bloomberg Quicktake" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Bloomberg" type="rss" />
+		<outline text="Breaking News on Seeking Alpha" title="Breaking News on Seeking Alpha" description="© seekingalpha.com. Use of this feed is limited to personal, non-commercial use and is governed by Seeking Alpha's Terms of Use (https://seekingalpha.com/page/terms-of-use). Publishing this feed for public or commercial use and/or misrepresentation by a third party is prohibited." xmlUrl="https://seekingalpha.com/market_currents.xml" type="rss" />
+		<outline text="Business Insider" title="Business Insider" description="" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=businessinsider" type="rss" />
+		<outline text="Duct Tape Marketing" title="Duct Tape Marketing" description="Interviews with authors, experts and thought leaders sharing business marketing tips, tactics and resources hosted by one America's leading small business marketing experts - John Jantsch" xmlUrl="https://ducttape.libsyn.com/rss" type="rss" />
+		<outline text="Economic Times" title="Economic Times" description="The Economic Times: Latest business, finance, markets, stocks, company news from India." xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" type="rss" />
+	</body>
+</opml>
