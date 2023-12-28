@@ -6,11 +6,17 @@ A rapidly developing research and development space such as eGPUs/eTPUs connecti
 
 So it's not JUST researchers/labs involved that developing as well as the conferences and workshops focused on HPC, cloud computing, and server technologies, as these often serve as a place for new ideas in cutting-edge research and development in eGPU/eTPU connectivity to emerge ... we ALSO continue to learn from [Archetypal Repository](https://github.com/sindresorhus/awesome) which laid the foundation for the broader archetypal example of listification in [the Awesome Lists of Awesome Lists](TheArchetype.md).
 
-## Awesome Asynch Workflow Tools 
+## Awesome Asynch Workflow Tools
 
 We will focus this AWESOME lists on various patterns, methodologies, practices and tools used in the development of asynchronous workflows ... we are our own most demanding customer for what is a particularly recursive topic, since we are all about using asynchronous workflows as we [dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) the asynchronous workflows that we will use to [dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) new asynchronous workflows.
 
-### Software Development
+#### Legal, Tax, Accounting, Compliance, and Regulatory
+
+[Gordon Firemark](https://firemark.com/about/gordon-firemark/) helps independent artists, writers, producers, directors and knowledge workers in cyberspace achieve their dreams in the fields of theater, film, television, new media, intellectual property, software development and professional services contracting. Firemark is the producer and host of [Entertainment Law Update](http://entertainmentlawupdate.com/), a podcast for artists and professionals in the entertainment and intellectual property industries; he's also the author of [The Podcast, Blog and New Media Producer's Legal Survival Guide](http://podcastlawbook.com/).... as of 2024, your asynchronous workflow will need to includes things like [US federal compliance reporting](https://firemark.com/2023/12/22/new-for-2024-federal-reporting-requirement-affects-most-small-businesses) ... for you and the independent contractors you work with.
+
+### Software and Intellectual Property Development
+
+These kinds of PREDICTABLE asynchronous workflow **disciplines** will be particularly important for the development of software and any kind of design or intellectual property ... if you work with other professionals asynchronously, everyone involved is going to NEED to understand their colleague's workflows. This does not mean that you direct them or that you will be directed by them as if you were an onsite worker bee housed somewhere in cubefarm or off in a work trailer in the parking lot. The point is everyone involved NEEDS to understand each other's workflows well enough to be able to collaborate as if you were sitting right there in person. This means things VPNs, information security, reliable and secure file sharing, and proficiencies with things like version control tools like Git that enable you to work asynchronously in some semblence of a coherent, predictable fashion, ie just emailing attachments back and forth like it's the 2000s is NOT close to being a professional asynchronous workFLOW ... that can be fine for one or two or a handful exchanges while you're both getting things set up, but as a regular, predictable, efficient workflow, doing that kind of backward crap is just some sort of pathetic electronic shit-shuffle [badminten](https://en.wikipedia.org/wiki/Badminton) game, ie professionals do not play *games* with their workflows unless they're the kind of *child* professionals who need to be onsite in order to be supervised and chaperoned.
 
 #### Feature Branch Workflow
 
